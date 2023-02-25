@@ -1,1 +1,1 @@
-# W3School_NumPy-Tutorial
+# W3School_NumPy_Tutorial
